@@ -1,0 +1,60 @@
+{
+  "uploadVideos": [
+    {
+      "id": "8f41",
+      "caption": "CSS in 5 minutes",
+      "imgUrl": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/sddefault.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/Z4pCqK-V_Wo"
+    },
+    {
+      "id": "4644",
+      "caption": "JavaScript Tutorial for Beginners",
+      "imgUrl": "https://i.ytimg.com/vi/W6NZfCO5SIk/maxresdefault.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/W6NZfCO5SIk"
+    },
+    {
+      "id": "5168",
+      "caption": "Pushpa 2 Teaser",
+      "imgUrl": "https://i.ytimg.com/vi/r588USiDBMc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDBQEU4TY_l_549aF7HLfLRIOOWQw",
+      "youTubeLink": "https://www.youtube.com/embed/wboGYls1Bns"
+    },
+    {
+      "id": "baf5",
+      "caption": "MARCO Official Teaser",
+      "imgUrl": "https://i.ytimg.com/vi/LqAAYn-YRIU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAEeCwMWFYtYIxyncQaZpvAvB2WAg",
+      "youTubeLink": "https://www.youtube.com/embed/5dy3azady4w"
+    }
+  ],
+  "categories": [
+    {
+      "id": "a7d7",
+      "categoryName": "Tutorials",
+      "allVideos": []
+    },
+    {
+      "id": "6ad9",
+      "categoryName": "Movies",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "c6ae",
+      "caption": "JavaScript Tutorial for Beginners",
+      "youTubeLink": "https://www.youtube.com/embed/W6NZfCO5SIk",
+      "timeStamp": "11/5/2024, 10:51:50 AM GMT+5:30"
+    },
+    {
+      "id": "a6ed",
+      "caption": "JavaScript Tutorial for Beginners",
+      "youTubeLink": "https://www.youtube.com/embed/W6NZfCO5SIk",
+      "timeStamp": "11/6/2024, 9:20:31 AM GMT+5:30"
+    },
+    {
+      "caption": "MARCO Official Teaser",
+      "youTubeLink": "https://www.youtube.com/embed/5dy3azady4w",
+      "timeStamp": "11/7/2024, 7:21:33 PM GMT+5:30",
+      "id": "M890uH-"
+    }
+  ]
+}
